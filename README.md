@@ -1,6 +1,20 @@
 # ML-study
 
-## 2022
+
+## 2022 하반기
+- 태양광 접속반 건전성 평가
+- 머신러닝 엔지니어링 - 전처리부터 모델서빙관리까지. 러닝스푼즈 강의 공유 1/2 주차
+- 농산물 가격 예측대회 baseline 코드 리뷰
+- What is MLOps
+- 모델 최적화 : 목적함수
+- 네이버 웹툰 댓글, 별점 기초 EDA 및 클러스터링 시도
+- Churn Predicion 내용 정리
+- Fine-Tuning 개념 소개 및 질문
+- MNIST FASHION 기본 소스 리딩
+- 탭넷 논문 리뷰
+- ARIMA를 통해 본 시계열 분석
+
+## 2022 상반기
 - [Causal Discovery] PC 알고리즘
 - streamlit 활용
 - SLASH 22 - 요약공유
