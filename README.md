@@ -2,6 +2,11 @@
 
 
 ## 2022 하반기(진행중)
+- Dacon: 데이콘 제주도 도로 교통량 예측
+- Kaggle: Costa Rican Household Poverty Level Prediction (2018)
+- 한국어 전처리 및 NPLM
+- FSI Data Challenge 대회 리뷰
+- Why CNN?
 - 태양광 접속반 건전성 평가
 - 머신러닝 엔지니어링 - 전처리부터 모델서빙관리까지. 러닝스푼즈 강의 공유 1/2 주차
 - 농산물 가격 예측대회 baseline 코드 리뷰
