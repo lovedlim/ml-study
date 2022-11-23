@@ -2,6 +2,17 @@
 
 
 ## 2022 하반기(진행중)
+- 시계열 분석 기반 용해물 품질 예측 AI 모델 개발
+- 빈도주의 vs 베이지안 통계 비교
+- 통신장비 수요 예측 프로젝트
+- ML service deployment
+- ai ground 아이들나라 추천 모델: Neural Collaborativs filtering
+- 짧은 Pytorch-tabnet 사용후기
+- Elo Merchant Category Recommendation 필사
+- BERT 소개
+- Pallete 모델 학습 및 결과 공유
+- diffusion 모델 개요
+- 캐글: FeedbackPrize / NLP
 - 태양광 발전량 예측을 위한 기상데이터 수집
 - whisper service 만들어 보기
 - abNet 실제 사용 짧은 후기 + pytorch-tabnet 모듈 사용 방법
