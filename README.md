@@ -3,7 +3,7 @@
 
 ## 2022 하반기(진행중)
 - Knowledge Distillation 설명
-- Neural Collaborative Filtering
+- Neural Collaborative Filtering: U+ 아이들나라 추천 
 - backpropagation 구현
 - 시계열 분석 기반 용해물 품질 예측 AI 모델 개발
 - 빈도주의 vs 베이지안 통계 비교
