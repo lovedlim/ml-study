@@ -2,10 +2,10 @@
 
 
 ## 2022 하반기(진행중)
-- 다각적 모델을 활용한 대출 신청 여부 예측과 고객 군집 별 서비스 메시지 제안
+- 빅콘테스트 2022: 다각적 모델을 활용한 대출 신청 여부 예측과 고객 군집 별 서비스 메시지 제안
 - 건설기계 오일 상태 분류 AI 경진대회
 - Knowledge Distillation 설명
-- Neural Collaborative Filtering: U+ 아이들나라 추천 
+- U+ 아이들나라 추천 대회: Neural Collaborative Filtering
 - backpropagation 구현
 - 시계열 분석 기반 용해물 품질 예측 AI 모델 개발
 - 빈도주의 vs 베이지안 통계 비교
