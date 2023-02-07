@@ -1,6 +1,6 @@
 # ML-study 발표 주제
 
-## 2022 상반기
+## 2023 상반기
 - 추천시스템(Recommendation System) 개요 및 간단한 실습
 - 이미지 생성 AI의 발전 타임라인 소개
 - 캐글 상위 1% 비법 공유 Competition :Tensorflow – Help Protect the Great Barrier Reef
