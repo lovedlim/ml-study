@@ -1,7 +1,14 @@
 # ML-study 발표 주제
 
+## 2022 상반기
+- 추천시스템(Recommendation System) 개요 및 간단한 실습
+- 이미지 생성 AI의 발전 타임라인 소개
+- 캐글 상위 1% 비법 공유 Competition :Tensorflow – Help Protect the Great Barrier Reef
+- 전기 가격 예측 데이터 EDA / Apache superset dashboard 간단 시연
+- 데이콘: 자동차 충돌분석 대회
+- DBA는 무슨일을 하는지!, 데이터모델링이란!
 
-## 2022 하반기(진행중)
+## 2022 하반기
 - SNN소개
 - pytorch 2 변경된 부분 
 - Multi-Armed Bandit
