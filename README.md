@@ -3,7 +3,7 @@
 ## 2023 상반기
 - kaggle godaddy microbusiness density baseline 코드 review
 - 모델 성능 추적 테스트 결과 공유
-- Nerf 논문 리뷰
+- Nerf: Representing Scenes as Neural Radiance Fields for View Synthesis 논문 리뷰
 - Transformer 모델 소개
 - Medical image Challenge review : TIGER
 - Kaggle (RSNA Screening Mammography Breast Cancer Detection)
