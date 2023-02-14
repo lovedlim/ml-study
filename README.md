@@ -1,6 +1,15 @@
 # ML-study 발표 주제
 
 ## 2023 상반기
+- kaggle godaddy microbusiness density baseline 코드 review
+- 모델 성능 추적 테스트 결과 공유
+- Nerf 논문 리뷰
+- Transformer 모델 소개
+- Medical image Challenge review : TIGER
+- Kaggle (RSNA Screening Mammography Breast Cancer Detection)
+- Book review - Designing Marching Learning System
+- toy project 소개 (강아지 -> 사람) 스타일 갠
+- vision 관련 논문 리뷰 및 계획
 - 추천시스템(Recommendation System) 개요 및 간단한 실습
 - 이미지 생성 AI의 발전 타임라인 소개
 - 캐글 상위 1% 비법 공유 Competition :Tensorflow – Help Protect the Great Barrier Reef
