@@ -1,6 +1,11 @@
 # ML-study 발표 주제
 
 ## 2023 상반기
+- ChatGPT 학습 방법
+- Entity Extraction-BERT 코드 리뷰
+- NFL Health & Safety - Helmet Assignment(2022) 소개 및 대회 Solution Review
+- 시각화를 위한 차원축소 방법론, PaCMAP 논문 리뷰
+- 소비자 수요예측
 - kaggle godaddy microbusiness density baseline 코드 review
 - 모델 성능 추적 테스트 결과 공유
 - Nerf: Representing Scenes as Neural Radiance Fields for View Synthesis 논문 리뷰
