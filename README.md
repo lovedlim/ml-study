@@ -1,6 +1,16 @@
 # ML-study 발표 주제
 
 ## 2023 상반기
+- 시멘트 강도 예측
+- 2023년 광진구 빅데이터 분석 공모전 with gpt-3
+- 강화학습 개념 및 밴딧 알고리즘 소개
+- 데이콘 차량충돌 대회
+- CAM ( Class activation mapping ) 간단한 소개
+- 지게차 주행 환경 만들기
+- Predict Student Performance from Game Play 살펴보기
+- Delhi weather forecasting
+- Data Centric AI 개념 훑기
+- (논문리뷰) Explainable Recommendation: A Survey and New Perspectives
 - ChatGPT 학습 방법
 - Entity Extraction-BERT 코드 리뷰
 - NFL Health & Safety - Helmet Assignment(2022) 소개 및 대회 Solution Review
