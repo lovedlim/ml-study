@@ -1,6 +1,9 @@
 # ML-study 발표 주제
 
 ## 2023 상반기
+- 연금저축 종목 선택하기 (feat. 유전알고리즘)
+- Delhi weather forecasting
+- ChatGPT 활용 AI 경진대회
 - 시멘트 강도 예측
 - 2023년 광진구 빅데이터 분석 공모전 with gpt-3
 - 강화학습 개념 및 밴딧 알고리즘 소개
