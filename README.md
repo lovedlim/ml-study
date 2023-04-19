@@ -1,6 +1,21 @@
 # ML-study 발표 주제
 
 ## 2023 상반기
+- 공기압축기 이상 판단대회
+- Pythonic Code
+- Online learning vs Offline learning
+- 데이콘 Basic 전화 해지 여부 분류 AI 경진대회 리뷰
+- CDP 플랫폼 소개 및 사례 설명
+- Linear Classifier
+- 도커와 쿠버네티스, BentoML 기본 개념과 우당탕탕 서빙 환경 구축기
+- 데이터 불균형 문제 해결 방법 살펴보기 ( image data )
+- 적은 수의 labeled data로 분류 성능 높이기 (PET, Pattern Exploiting Training)
+- [Kaggle] Google - Isolated Sign Language Recognition
+- Rust로 해보는 고성능 Python 확장 모듈 만들어보기
+- 스마트 공장 제품 품질 상태 분류 AI 온라인 해커톤, 자동차 충돌 대회 후기
+- Dacon Car Crash 대회 마감 후기
+- docker 개발환경 소개 및 팁
+- open3d 간단한 코드 사용해보기
 - Optimization 정리
 - 연금저축 종목 선택하기 (feat. 유전알고리즘)
 - Delhi weather forecasting
