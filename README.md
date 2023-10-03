@@ -1,6 +1,6 @@
 # ML-study 발표 주제
 
-## 2023 상반기
+## 2023
 - 공기압축기 이상 판단대회
 - Pythonic Code
 - Online learning vs Offline learning
