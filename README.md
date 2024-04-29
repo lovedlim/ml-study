@@ -1,5 +1,36 @@
 # ML-study 발표 주제
 
+## 2024
+- 정보보호의 시각에서본 RAG, 그리고 지식그래프(Neo4j)의 접목의 이점은?
+- 2023 신약개발 경진대회 관련 발표
+- arima 소개
+- AutoML 기술 소개
+- Home credit competition 참여
+- 국내법체계와 마이데이터 동향
+- 몇 가지 프롬프트 기법들
+- LLM 프로젝트 소개
+- AI 더빙 프로세스
+- 기술 도서 출간하기
+- Word2Vec
+- 역전파
+- image segmentation - unet
+- 속성기반감성분석 말뭉치 구축
+- LLM 기반 복지서비스 추천 모델 구현
+- 단변량 시계열 모델
+- NLP와 활용
+- 생성 모델 튜닝 어디까지 왔나
+- cnn이 필요한 이유
+- 데이콘 LLM 참여 후기 (LLM 찍먹)
+- gnn기초
+- diffusion 모델 개요
+- poetry 소개
+- 캐글 Leash Bio - Predict New Medicines with BELKA 대회 소개 및 EDA 리뷰
+- Zeroshot 소개
+- AutoML - Autogluon 시계열 모듈 논문 리뷰
+- Search Agent 개발 및 학습 내용
+- prompt 작성방법
+- Power BI 이해와 활용(BI TOOL)
+
 ## 2023
 - 공기압축기 이상 판단대회
 - Pythonic Code
